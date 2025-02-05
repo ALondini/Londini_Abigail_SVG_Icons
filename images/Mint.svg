@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 363.08 364.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #29a649;
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #39b54a;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-5 {
+        fill: #39b54a;
+      }
+    </style>
+    <filter id="drop-shadow-1" x="3.3" y="-14.82" width="223.44" height="345.84" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#1a6131" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="17.46" y="155.58" width="362.64" height="211.68" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#1a6131" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Leaf_2" data-name="Leaf 2">
+    <path id="Main_Leaf_1" data-name="Main Leaf 1" class="cls-1" d="M170.69.25s-.1-.03-.15-.04c-.04,0-.07-.03-.11-.03-16.87-2.16-35.23,16.06-35.23,16.06l1.48-9.68c-27.46,7.85-38.33,34.5-38.33,34.5l-.38-12.04c-24.83,9.27-35.1,38.72-35.1,38.72l-1.76-11.48c-19.27,19.29-27.29,55.55-27.29,55.55l-4.64-11.08c-16.35,37.55-14.17,53.14-14.17,53.14l-4.16-7.12c-13.28,39.29-2.37,60.46-2.37,60.46l-7.62-9.34c-5.54,18.3,17.52,58.49,17.52,58.49l-10.88-10.27c5.42,16.44,26.77,46.47,26.77,46.47l-11.46-5.02c4.41,18.53,33.76,25.14,33.76,25.14,0,0,6.39,1.96,6.2,2.42.13-.48,6.44,1.91,6.44,1.91,0,0,27.23,12.78,42.08.85l-12.13-3.06s35.28-10.62,49.65-20.28l-14.89,1.44s42.86-17.6,49.71-35.45l-11.75,2.7s21.6-10.03,35.21-49.21l-7.66,3.07s11.28-10.98,21.4-50.66l-10.46,5.91s15.9-33.56,12.51-60.61l-8.42,7.99s9.95-29.56-3.98-52.11l-7.68,9.28s7.76-27.72-9.11-50.76l-4.77,8.55s-3.32-25.65-17.97-34.29c-.03-.02-.07-.02-.1-.04-.05-.03-.1-.04-.16-.06Z"/>
+    <g id="Inner_Leaf_1" data-name="Inner Leaf 1" class="cls-4">
+      <path id="Stem_1" data-name="Stem 1" class="cls-5" d="M59.92,313.78C61.91,312.72,165.07,12.31,170.54.21l.15.04c-2.19,3.58-19.54,77.82-104.4,315.7l-3.43-1.18-2.93-1Z"/>
+      <g id="Veins_Left" data-name="Veins Left">
+        <path id="Vein" class="cls-3" d="M70.77,284.62s-65.69-18.25-51.93-117.35"/>
+        <path id="Vein-2" data-name="Vein" class="cls-3" d="M84.27,246.53S13.92,209.5,58.02,85.28"/>
+        <path id="Vein-3" data-name="Vein" class="cls-3" d="M103.72,190.82s-50.11-18.1-12.41-131.61"/>
+        <path id="Vein-4" data-name="Vein" class="cls-3" d="M122.49,137.12s-29.93-13.67-6.13-95.71"/>
+        <path id="Vein-5" data-name="Vein" class="cls-3" d="M143.1,77.91s-18.31-2.53-2.68-52.51"/>
+      </g>
+      <g id="Veins_Right" data-name="Veins Right">
+        <path id="Vein-6" data-name="Vein" class="cls-3" d="M76.77,286.68s63.08,25.88,112.99-60.84"/>
+        <path id="Vein-7" data-name="Vein" class="cls-3" d="M89.47,248.32s78.28,13.9,119.63-111.26"/>
+        <path id="Vein-8" data-name="Vein" class="cls-3" d="M108.29,192.38s50.68,16.44,90.52-96.33"/>
+        <path id="Vein-9" data-name="Vein" class="cls-3" d="M126.39,138.46s32.02,7.56,63.55-71.83"/>
+        <path id="Vein-10" data-name="Vein" class="cls-3" d="M146.44,79.05s16.01,9.23,34.32-39.83"/>
+      </g>
+    </g>
+  </g>
+  <g id="Leaf_1" data-name="Leaf 1">
+    <path id="Main_Leaf_1-2" data-name="Main Leaf 1" class="cls-1" d="M363.08,260.6c0-.05,0-.1,0-.15,0-.04,0-.07,0-.11-3.43-16.66-26.61-28.12-26.61-28.12l9.63-1.74c-16.33-23.43-45.06-25.08-45.06-25.08l11.27-4.26c-16.82-20.48-48-20.66-48-20.66l10.29-5.38c-24.49-11.98-61.39-7.81-61.39-7.81l8.98-7.98c-40.82-3.3-54.86,3.82-54.86,3.82l5.39-6.25c-41.47.17-57.96,17.36-57.96,17.36l6.37-10.24c-19.1.69-49.65,35.53-49.65,35.53l6.18-13.62c-13.8,10.46-35.28,40.39-35.28,40.39l1.04-12.47c-16.1,10.18-12.84,40.09-12.84,40.09,0,0,.21,6.68-.28,6.65.49-.03.28,6.72.28,6.72,0,0-3.26,29.9,12.84,40.09l-1.04-12.47s21.49,29.93,35.28,40.39l-6.18-13.62s30.55,34.84,49.65,35.53l-6.37-10.24s16.49,17.18,57.96,17.36l-5.39-6.25s14.04,7.12,54.86,3.82l-8.98-7.98s36.9,4.17,61.39-7.81l-10.29-5.38s31.19-.17,48-20.66l-11.27-4.26s28.74-1.64,45.07-25.08l-9.63-1.74s23.19-11.46,26.61-28.12c0-.04,0-.07,0-.11,0-.06,0-.11,0-.17Z"/>
+    <g id="Inner_Leaf_1-2" data-name="Inner Leaf 1" class="cls-2">
+      <path id="Stem_1-2" data-name="Stem 1" class="cls-5" d="M30.58,257.45c1.64,1.54,319.27,1.74,332.49,2.99v.15c-4.09-.91-79.94,6.74-332.49,3.58v-3.63s0-3.1,0-3.1Z"/>
+      <g id="Veins_Left-2" data-name="Veins Left">
+        <path id="Vein-11" data-name="Vein" class="cls-3" d="M61.68,258.26s-4.03-68.06,94.18-87.16"/>
+        <path id="Vein-12" data-name="Vein" class="cls-3" d="M102.08,258.68s12.23-78.56,144.04-77.1"/>
+        <path id="Vein-13" data-name="Vein" class="cls-3" d="M161.09,259.02s.87-53.27,120.47-54.41"/>
+        <path id="Vein-14" data-name="Vein" class="cls-3" d="M217.97,259.37s3.23-32.75,88.56-36.83"/>
+        <path id="Vein-15" data-name="Vein" class="cls-3" d="M280.67,259.67s-3.54-18.14,48.8-19.56"/>
+      </g>
+      <g id="Veins_Right-2" data-name="Veins Right">
+        <path id="Vein-16" data-name="Vein" class="cls-3" d="M61.68,264.61s-4.03,68.06,94.18,87.16"/>
+        <path id="Vein-17" data-name="Vein" class="cls-3" d="M102.08,264.19s12.23,78.56,144.04,77.1"/>
+        <path id="Vein-18" data-name="Vein" class="cls-3" d="M161.09,263.85s.87,53.27,120.47,54.41"/>
+        <path id="Vein-19" data-name="Vein" class="cls-3" d="M217.97,263.5s3.23,32.75,88.56,36.83"/>
+        <path id="Vein-20" data-name="Vein" class="cls-3" d="M280.67,263.2s-3.54,18.14,48.8,19.56"/>
+      </g>
+    </g>
+  </g>
+</svg>
