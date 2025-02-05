@@ -39,6 +39,9 @@ h5 {
     display: none;
 }
 
+html {
+    background-color: rgb(255, 255, 134);
+}
 
 
 /* ---Mobile Library Grid Styles--- */
@@ -70,7 +73,6 @@ h5 {
     grid-row: 1/1;
     margin: 0;
 } */
-
 
 .col-span-1 {
     grid-column: span 1 / span 1;
