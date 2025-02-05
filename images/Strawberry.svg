@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 306.27 323.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec1b33;
+        stroke: #c22039;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #5daa46;
+      }
+
+      .cls-3 {
+        fill: #f26921;
+      }
+    </style>
+  </defs>
+  <path id="Strawberry" class="cls-1" d="M154.88,55.36s-50.95-21.82-105.19,25.28c-.28.24-.59.41-.88.65-2.01,2.22-13.94,11.68-29.16,64.39C5.52,204.65-3.18,237.26,4.16,284.01c7.34,46.74,51.63,44.3,141.32,26.9,89.68-17.39,115.18-92.46,117.94-98.92,2.47-21.16,9.24-61.96-23.64-85.6-32.88-23.64-84.9-71.02-84.9-71.02,0,0,0,0,0,0Z"/>
+  <g id="Steam">
+    <path id="Leaf_1" data-name="Leaf 1" class="cls-2" d="M195.34,87.95s50-16.2,90.83,31.7c0,0,9.54,15.95,20.09,23.92,0,0-79.93,2.86-110.93-55.61Z"/>
+    <path id="Leaf_2" data-name="Leaf 2" class="cls-2" d="M199.13,93.64s48.2,17.71,28.41,65.21c0,0-11.77,35.81-7,41.65,0,0-42.31-3.67-21.41-106.86Z"/>
+    <path id="Leaf_3" data-name="Leaf 3" class="cls-2" d="M205.43,89.69s-3.21,76.01-94.4,72.42c0,0,31.56-17.14,40.33-42.84,0,0,4.68-8.57,16.37-19.35,0,0,18.07-15.2,37.7-10.23Z"/>
+    <path id="Leaf_4" data-name="Leaf 4" class="cls-2" d="M201.59,89.52s-84.67-48.57-129.8-2.66c0,0,8.61-4.26,61.61,15.16,0,0,21.41,7.81,68.2-12.5Z"/>
+    <path id="Leaf_5" data-name="Leaf 5" class="cls-2" d="M201.32,91.15S214.39,54.43,146.11,0c0,0-8.58,83.94,55.21,91.15Z"/>
+    <path id="Stem" class="cls-2" d="M199.19,89.87s5.19-43.24,39.49-55.19c0,0,8.35,2.46,6.52,12.18,0,0-33.53,14.65-35.76,57.23l-10.25-14.21Z"/>
+  </g>
+  <ellipse id="Seed" class="cls-3" cx="83.83" cy="108.21" rx="8.37" ry="4.83" transform="translate(-51.96 90.97) rotate(-45)"/>
+  <ellipse id="Seed-2" data-name="Seed" class="cls-3" cx="79.89" cy="156.8" rx="8.37" ry="4.83" transform="translate(-94.82 135.72) rotate(-56.12)"/>
+  <ellipse id="Seed-3" data-name="Seed" class="cls-3" cx="94.43" cy="194.79" rx="8.37" ry="4.83" transform="translate(-119.93 164.59) rotate(-56.12)"/>
+  <ellipse id="Seed-4" data-name="Seed" class="cls-3" cx="133.61" cy="194.79" rx="8.37" ry="4.83" transform="translate(-100.44 162.91) rotate(-47.8)"/>
+  <ellipse id="Seed-5" data-name="Seed" class="cls-3" cx="175.58" cy="174.34" rx="8.37" ry="4.83" transform="translate(-63.2 239.23) rotate(-60)"/>
+  <ellipse id="Seed-6" data-name="Seed" class="cls-3" cx="37.67" cy="186.37" rx="8.37" ry="4.83" transform="translate(-135.17 107.13) rotate(-53.95)"/>
+  <ellipse id="Seed-7" data-name="Seed" class="cls-3" cx="241.15" cy="194.79" rx="8.37" ry="4.83" transform="translate(20.89 412.93) rotate(-83.65)"/>
+  <ellipse id="Seed-8" data-name="Seed" class="cls-3" cx="209.94" cy="234.32" rx="8.37" ry="4.83" transform="translate(-101.62 277.98) rotate(-56.12)"/>
+  <ellipse id="Seed-9" data-name="Seed" class="cls-3" cx="141.67" cy="245.57" rx="8.37" ry="4.83" transform="translate(-132.15 172.1) rotate(-45)"/>
+  <ellipse id="Seed-10" data-name="Seed" class="cls-3" cx="100.37" cy="249.07" rx="8.37" ry="4.83" transform="translate(-146.72 143.92) rotate(-45)"/>
+  <ellipse id="Seed-11" data-name="Seed" class="cls-3" cx="34.74" cy="276.76" rx="8.37" ry="4.83" transform="translate(-214.39 151.32) rotate(-56.12)"/>
+  <ellipse id="Seed-12" data-name="Seed" class="cls-3" cx="79.5" cy="287.68" rx="8.37" ry="4.83" transform="translate(-180.14 140.47) rotate(-45)"/>
+  <ellipse id="Seed-13" data-name="Seed" class="cls-3" cx="124.93" cy="289.22" rx="8.37" ry="4.83" transform="translate(-167.92 173.05) rotate(-45)"/>
+  <ellipse id="Seed-14" data-name="Seed" class="cls-3" cx="174.13" cy="266.28" rx="8.37" ry="4.83" transform="translate(-137.28 201.12) rotate(-45)"/>
+  <ellipse id="Seed-15" data-name="Seed" class="cls-3" cx="24.94" cy="232.29" rx="8.37" ry="4.83" transform="translate(-177.53 115.73) rotate(-53.95)"/>
+  <ellipse id="Seed-16" data-name="Seed" class="cls-3" cx="125.49" cy="124.25" rx="8.37" ry="4.83" transform="translate(-51.11 125.12) rotate(-45)"/>
+  <ellipse id="Seed-17" data-name="Seed" class="cls-3" cx="62.73" cy="228.81" rx="8.37" ry="4.83" transform="translate(-159.17 144.86) rotate(-53.95)"/>
+  <ellipse id="Seed-18" data-name="Seed" class="cls-3" cx="48.8" cy="133.26" rx="8.37" ry="4.83" transform="translate(-79.93 73.54) rotate(-45)"/>
+  <ellipse id="Seed-19" data-name="Seed" class="cls-3" cx="174.03" cy="213.21" rx="8.37" ry="4.83" transform="translate(-100 238.83) rotate(-56.12)"/>
+</svg>

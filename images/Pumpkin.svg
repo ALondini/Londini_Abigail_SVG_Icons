@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 409.11 344.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #094423;
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #d36527;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-4 {
+        fill: #f47524;
+      }
+
+      .cls-5 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-3);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="35.33" y="60.86" width="186.96" height="282.72" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#010101" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="191.33" y="177.5" width="186.96" height="166.56" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#010101" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" x="219.89" y="60.86" width="157.92" height="147.12" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#010101" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" x="111.17" y="63.98" width="107.52" height="277.92" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#010101" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" x="200.45" y="67.1" width="99.12" height="276.48" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="0"/>
+      <feGaussianBlur result="blur-5" stdDeviation="5"/>
+      <feFlood flood-color="#010101" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Pumpkin" class="cls-4" d="M222.53,65.8c170.99-34.49,184.41,111.29,184.41,111.29,10.85,132.58-112.49,151.86-204.07,149.45S-6.87,322.12,1.97,180.7C24.63,16.24,189.71,65.91,189.71,65.91"/>
+  <g id="Veins">
+    <path id="Vein" class="cls-2" d="M176.73,77.46s-116.43,2.42-126.13,115.34c-9.7,112.92,105.32,137.53,154.57,133.93"/>
+    <path id="Vein-2" data-name="Vein" class="cls-5" d="M204.56,326.72c45.81,6.06,164.27-21.01,154.57-133.93"/>
+    <path id="Vein-3" data-name="Vein" class="cls-7" d="M233,77.46s116.43,2.42,126.13,115.34"/>
+    <path id="Vein-4" data-name="Vein" class="cls-3" d="M200.7,80.44s-156.5,101.06-17.06,245.39"/>
+    <path id="Vein-5" data-name="Vein" class="cls-6" d="M214.35,83.42s145.84,94.24,5.58,244.1"/>
+  </g>
+  <g id="Stem">
+    <path id="Stem_Bottom" data-name="Stem Bottom" class="cls-1" d="M195.68,66.03S190.3,9.07,252.64,0c0,0,13.6,3.97,6.8,20.69,0,0-42.23-2.55-40.52,45.34h-23.24Z"/>
+    <path id="Stem_Top" data-name="Stem Top" class="cls-1" d="M219.07,53.99c-.95,4.92,1.95,12.04,12.3,16.13,8.74,3.45,10.51,16.38-2.92,19.01-10.38,2.03-36.63,4.94-52.24-6.03-6.13-4.31-5.1-9.43,1.24-15.14,3.23-2.91,15.45-.58,19.59-17.64.65-2.68,3.09-4.53,5.82-4.12l11.88,1.75c2.9.43,4.88,3.18,4.33,6.05Z"/>
+  </g>
+</svg>
